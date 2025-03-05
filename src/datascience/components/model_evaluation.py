@@ -13,11 +13,11 @@ from src.datascience.utils.common import read_yaml, create_directories, save_jso
 
 import os
 
-os.environ["MLFLOW_TRACKING_URI"] = (
-    "https://dagshub.com/cdondi/data_science_project.mlflow"
-)
-os.environ["MLFLOW_TRACKING_USERNAME"] = "cdondi"
-os.environ["MLFLOW_TRACKING_PASSWORD"] = "5ffcf1dc31518f0163c44368cdf873ba1b3c35ef"
+# os.environ["MLFLOW_TRACKING_URI"] = (
+#     "https://dagshub.com/cdondi/data_science_project.mlflow"
+# )
+# os.environ["MLFLOW_TRACKING_USERNAME"] = "cdondi"
+# os.environ["MLFLOW_TRACKING_PASSWORD"] = "5ffcf1dc31518f0163c44368cdf873ba1b3c35ef"
 
 
 class ModelEvaluation:
