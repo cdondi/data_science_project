@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cdondi/Documents/Code/Data%20Science/MLOps/MLFlowStarter/11-DataScienceProject/data_science_project/mlruns/0/9959754b64a24ef3be3328f82588a11a/artifacts
+end_time: 1741202219889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9959754b64a24ef3be3328f82588a11a
+run_name: marvelous-jay-737
+run_uuid: 9959754b64a24ef3be3328f82588a11a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741202218090
+status: 3
+tags: []
+user_id: cdondi
